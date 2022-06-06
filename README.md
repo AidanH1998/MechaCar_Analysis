@@ -15,10 +15,15 @@ The P-value that the summary displayed is compared to alpha = .05, to see if it 
 Is the slope of the linear model considered to be zero? Why or why not?
 The scientific notion has to be converted and once it is converted we see that non of the coefficents are zero.
 Coefficients:
+
 vehicle length: 6.267
+
 vehicle weight: .001
+
 spoiler angle: .069
+
 ground clearance: 3.546
+
 AWD: -3.411
 
 
