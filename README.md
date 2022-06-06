@@ -1,6 +1,6 @@
 # MechaCar_Analysis
 
-## Linear Regression ##
+## Linear RegressionFor MPG ##
 
 The Dataset has 6 coefficients and the line helps identify them in the data set.
 ![Linear Regression](https://user-images.githubusercontent.com/100543143/172079118-f7ce8384-9a42-4a8d-9bd7-ad8988d217f6.png)
