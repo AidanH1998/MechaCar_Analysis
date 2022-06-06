@@ -17,13 +17,9 @@ The scientific notion has to be converted and once it is converted we see that n
 Coefficients:
 
 vehicle length: 6.267
-
 vehicle weight: .001
-
 spoiler angle: .069
-
 ground clearance: 3.546
-
 AWD: -3.411
 
 
