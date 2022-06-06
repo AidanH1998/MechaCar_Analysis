@@ -63,3 +63,16 @@ Alpha is greater than P-value, which means it is statistically significant from 
 <img width="556" alt="Lot3" src="https://user-images.githubusercontent.com/100543143/172081397-bf0f9889-7072-4031-880c-03f2a503ab1f.png">
 
 
+## MechaCar vs Competition ##
+
+What metric or metrics are you going to test?
+Next metric would be horsepower, safety, fuel efficiency on highways and city and .
+
+What is the null hypothesis or alternative hypothesis?
+Null hypothesis is the mean of the rating being zero and the alternative is the mean is greater than zero
+
+What statistical test would you use to test the hypothesis? And why?
+The multiple linear regression summary would show the variable impact towards the fuel economy for MechaCar 
+
+What data is needed to run the statistical test?
+Samples of MechaCar and others are needed for the fuel economy, safety rating and horsepower.
