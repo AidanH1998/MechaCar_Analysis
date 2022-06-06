@@ -30,6 +30,7 @@ The R-squared is .7149, and r-squared is the regression error metric to justify 
 ## Summary of Suspension Coils ##
 
 The summary of the manufacture lot 
+
 <img width="325" alt="Total_summary" src="https://user-images.githubusercontent.com/100543143/172080346-a66b3bfa-c972-499d-8501-d10c9a89b377.png">
 
 <img width="465" alt="Lot_summary" src="https://user-images.githubusercontent.com/100543143/172080403-e0e1ed5d-e848-4b3a-93f6-4c0eda00311a.png">
@@ -40,7 +41,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 62 < 100 is within the expected design of 100 PSI. Although the variance is 62 the manufactor lots are displaying the specific number, such as Lot1 and Lot2 are within the expectation. Lot1 and Lot2 are 1 and 7.5 which both are under 100, however lot3 is signifcantly higher than the other two, at 170 > 100. As a result of lot3 being high, it does not met the design specifications, lot3 bring the variance number on the total summary display.
 
 
-### T-Tests on Suspension Coils ### 
+## T-Tests on Suspension Coils ## 
 
 Lot 1 T-test:
 p-value = 1 > alpha = .05
