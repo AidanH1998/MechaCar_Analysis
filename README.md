@@ -46,16 +46,19 @@ Lot 1 T-test:
 p-value = 1 > alpha = .05
 
 P-value is greater than alpha, so Lot 1 is not statistically significant from the normal distribution
+
 <img width="556" alt="Lot1" src="https://user-images.githubusercontent.com/100543143/172081176-956021a0-b107-419d-8842-87759731b118.png">
 
 Lot 2 T-Test:
 p-value = .6072 > alpha = .05
 P-value is greater than alpha, so Lot 1 is not statistically significant from the normal distribution
+
 <img width="557" alt="Lot2" src="https://user-images.githubusercontent.com/100543143/172081282-04ab3b98-ed6c-4cd2-a713-57dd0b0204e2.png">
 
 Lot 3 T-Test:
 p-value = .04168 < alpha = .05
 Alpha is greater than P-value, which means it is statistically significant from the normal distribution
+
 <img width="556" alt="Lot3" src="https://user-images.githubusercontent.com/100543143/172081397-bf0f9889-7072-4031-880c-03f2a503ab1f.png">
 
 
